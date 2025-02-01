@@ -1,0 +1,1376 @@
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 took>, <e16 crashed>, <e18 hit>, <e24 crash>, <e25 crash>, <e27 crash>; SuperSub: none; SubSuper: <e7 flight>, <e23 perished>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 crashed>, <e7 flight>, <e16 crashed>, <e24 crash>, <e25 crash>, <e27 crash>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 crashed>, <e6 took>, <e16 crashed>, <e18 hit>, <e19 contacted>, <e23 perished>, <e25 crash>; SubSuper: <e24 crash>, <e27 crash>"}
+{"label": "", "predict": "Coref: <e11 identification>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e8 Identification>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 crashed>, <e6 took>, <e18 hit>, <e24 crash>, <e25 crash>, <e27 crash>; SuperSub: none; SubSuper: <e7 flight>, <e23 perished>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 crashed>, <e16 crashed>, <e24 crash>, <e25 crash>; SubSuper: <e6 took>, <e7 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 crashed>, <e16 crashed>, <e24 crash>, <e25 crash>; SubSuper: <e6 took>, <e7 flight>, <e18 hit>"}
+{"label": "", "predict": "Coref: <e1 crashed>, <e16 crashed>, <e25 crash>, <e27 crash>; SuperSub: <e6 took>, <e18 hit>, <e23 perished>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 crashed>, <e6 took>, <e16 crashed>, <e18 hit>, <e24 crash>, <e27 crash>; SuperSub: <e23 perished>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 crashed>, <e6 took>, <e16 crashed>, <e18 hit>, <e24 crash>, <e25 crash>; SuperSub: none; SubSuper: <e7 flight>, <e19 contacted>, <e23 perished>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 spent>"}
+{"label": "", "predict": "Coref: <e5 let>; SuperSub: none; SubSuper: <e1 spending>, <e31 stay>"}
+{"label": "", "predict": "Coref: <e31 stay>; SuperSub: <e6 responded>, <e18 diagnosed>, <e32 tests>; SubSuper: <e13 received>, <e14 made>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e12 treatment>; SubSuper: <e2 recovering>, <e5 let>, <e7 therapy>, <e34 sent>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e12 treatment>; SubSuper: <e1 spending>, <e32 tests>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 therapy>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e12 treatment>, <e32 tests>; SubSuper: <e2 recovering>, <e4 decided>, <e5 let>, <e8 increase>, <e16 admitted>, <e18 diagnosed>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 spending>, <e7 therapy>, <e19 spent>, <e31 stay>; SubSuper: <e0 released>, <e6 responded>, <e14 made>, <e34 sent>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 spent>"}
+{"label": "", "predict": "Coref: <e0 released>; SuperSub: <e1 spending>, <e31 stay>; SubSuper: <e2 recovering>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 spending>, <e2 recovering>, <e31 stay>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e12 treatment>, <e13 received>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 recovering>; SubSuper: <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 spending>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 therapy>; SubSuper: <e2 recovering>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 spending>, <e12 treatment>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 recovering>, <e4 decided>, <e6 responded>, <e7 therapy>; SubSuper: <e5 let>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 received>; SubSuper: <e1 spending>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 spending>, <e16 admitted>, <e18 diagnosed>, <e19 spent>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e12 treatment>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 received>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e12 treatment>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 spent>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 spending>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e3 bout>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e16 admitted>, <e18 diagnosed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 spending>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e21 tripped>, <e22 fell>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 fell>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e21 tripped>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e25 hospitalized>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 released>, <e2 recovering>, <e6 responded>, <e8 increase>, <e13 received>; SubSuper: <e16 admitted>, <e18 diagnosed>"}
+{"label": "", "predict": "Coref: <e1 spending>, <e19 spent>; SuperSub: <e3 bout>, <e7 therapy>, <e34 sent>; SubSuper: <e12 treatment>, <e32 tests>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 recovering>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 spending>, <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 stay>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e4 abused>, <e8 inquiry>, <e13 inquiry>; SubSuper: <e3 given>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 affair>; SubSuper: <e8 inquiry>, <e13 inquiry>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 affair>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 inquiry>; SuperSub: <e3 given>; SubSuper: <e4 abused>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e8 inquiry>; SuperSub: <e1 affair>, <e3 given>, <e4 abused>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 violence>, <e7 battles>, <e8 fighting>; SubSuper: <e4 uprising>, <e6 clashed>, <e22 fighting>"}
+{"label": "", "predict": "Coref: <e25 killed>; SuperSub: <e1 clashes>, <e10 violence>; SubSuper: <e29 uprising>"}
+{"label": "", "predict": "Coref: <e7 battles>; SuperSub: <e7 battles>, <e8 fighting>, <e23 pitted>, <e25 killed>; SubSuper: <e0 killed>, <e28 wounded>, <e30 sent>, <e32 pulled>"}
+{"label": "", "predict": "Coref: <e6 clashed>, <e22 fighting>; SuperSub: <e5 firing>, <e26 wounded>; SubSuper: <e2 violence>, <e4 uprising>, <e10 violence>, <e29 uprising>"}
+{"label": "", "predict": "Coref: <e10 violence>; SuperSub: <e11 killing>, <e26 wounded>; SubSuper: <e0 killed>, <e6 clashed>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 battles>, <e8 fighting>; SubSuper: <e5 firing>, <e20 shooting>, <e22 fighting>, <e25 killed>, <e28 wounded>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e29 uprising>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 clashes>, <e2 violence>, <e7 battles>, <e10 violence>; SubSuper: <e6 clashed>"}
+{"label": "", "predict": "Coref: <e20 shooting>; SuperSub: <e22 fighting>; SubSuper: <e4 uprising>, <e8 fighting>, <e29 uprising>"}
+{"label": "", "predict": "Coref: <e1 clashes>, <e7 battles>; SuperSub: <e5 firing>, <e8 fighting>, <e29 uprising>; SubSuper: <e0 killed>, <e25 killed>, <e26 wounded>"}
+{"label": "", "predict": "Coref: <e22 fighting>; SuperSub: <e2 violence>, <e11 killing>, <e28 wounded>; SubSuper: <e4 uprising>"}
+{"label": "", "predict": "Coref: <e1 clashes>, <e6 clashed>; SuperSub: <e5 firing>; SubSuper: <e0 killed>, <e10 violence>, <e11 killing>, <e15 killing>, <e18 cut>, <e23 pitted>"}
+{"label": "", "predict": "Coref: <e22 fighting>; SuperSub: <e2 violence>, <e20 shooting>, <e25 killed>, <e26 wounded>; SubSuper: <e8 fighting>, <e28 wounded>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 battles>, <e10 violence>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 violence>; SuperSub: <e13 burned>, <e22 fighting>, <e23 pitted>; SubSuper: <e1 clashes>, <e6 clashed>, <e8 fighting>, <e20 shooting>, <e26 wounded>, <e28 wounded>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 killed>, <e5 firing>, <e7 battles>, <e11 killing>, <e15 killing>, <e18 cut>; SubSuper: <e25 killed>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e4 uprising>; SubSuper: <e29 uprising>"}
+{"label": "", "predict": "Coref: <e0 killed>, <e25 killed>; SuperSub: none; SubSuper: <e7 battles>, <e8 fighting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 violence>, <e4 uprising>, <e16 demonstrations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e14 protest>; SubSuper: <e16 demonstrations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 uprising>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 burned>; SubSuper: <e16 demonstrations>, <e12 blocked>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 cut>"}
+{"label": "", "predict": "Coref: <e11 killing>; SuperSub: none; SubSuper: <e2 violence>, <e8 fighting>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e16 demonstrations>; SubSuper: <e4 uprising>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 violence>, <e14 protest>; SubSuper: <e18 cut>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 violence>, <e10 violence>, <e16 demonstrations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 violence>; SubSuper: <e1 clashes>, <e7 battles>"}
+{"label": "", "predict": "Coref: <e5 firing>; SuperSub: <e6 clashed>, <e8 fighting>, <e10 violence>, <e22 fighting>; SubSuper: <e4 uprising>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 violence>, <e10 violence>, <e20 shooting>, <e25 killed>; SubSuper: <e11 killing>, <e15 killing>, <e28 wounded>"}
+{"label": "", "predict": "Coref: <e1 clashes>, <e6 clashed>, <e7 battles>; SuperSub: <e0 killed>, <e5 firing>, <e8 fighting>; SubSuper: <e4 uprising>, <e26 wounded>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e22 fighting>; SubSuper: <e6 clashed>, <e7 battles>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 violence>, <e10 violence>, <e11 killing>; SubSuper: <e1 clashes>, <e4 uprising>, <e15 killing>, <e29 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 killed>; SuperSub: <e1 clashes>, <e2 violence>, <e7 battles>; SubSuper: <e6 clashed>, <e8 fighting>, <e10 violence>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e22 fighting>; SubSuper: <e4 uprising>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 battles>, <e8 fighting>; SubSuper: <e6 clashed>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 clashes>, <e11 killing>, <e22 fighting>; SubSuper: <e2 violence>, <e4 uprising>, <e10 violence>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e22 fighting>; SubSuper: <e8 fighting>, <e10 violence>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 clashes>, <e2 violence>, <e7 battles>; SubSuper: <e6 clashed>, <e4 uprising>"}
+{"label": "", "predict": "Coref: <e4 uprising>; SuperSub: <e11 killing>, <e15 killing>, <e18 cut>, <e28 wounded>; SubSuper: <e0 killed>, <e5 firing>, <e7 battles>, <e22 fighting>, <e25 killed>, <e26 wounded>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 pulled>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 reacting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 support>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 cheered>, <e13 thanked>; SubSuper: <e4 statement>, <e8 expressing>, <e11 tweet>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 cheered>, <e7 reacting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 upgrade>, <e19 upgrade>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e3 restructuring>, <e9 exchange>, <e20 swap>"}
+{"label": "", "predict": "Coref: <e9 exchange>, <e20 swap>; SuperSub: none; SubSuper: <e10 alleviated>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 upgrade>, <e2 slashed>, <e9 exchange>, <e20 swap>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e3 restructuring>, <e20 swap>; SuperSub: none; SubSuper: <e1 upgrade>, <e2 slashed>, <e10 alleviated>, <e21 cut>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e9 exchange>, <e20 swap>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e9 exchange>; SuperSub: <e3 restructuring>; SubSuper: <e2 slashed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e20 swap>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 filed>, <e18 filing>; SuperSub: none; SubSuper: <e24 petition>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 trial>, <e7 trial>"}
+{"label": "", "predict": "Coref: <e7 trial>; SuperSub: <e12 convicted>; SubSuper: <e10 acquittal>, <e13 kidnapping>, <e14 robbery>, <e17 sentenced>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 filed>; SuperSub: none; SubSuper: <e18 filing>, <e24 petition>"}
+{"label": "", "predict": "Coref: <e4 trial>; SuperSub: <e12 convicted>, <e13 kidnapping>, <e14 robbery>; SubSuper: <e9 stolen>, <e10 acquittal>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 trial>, <e7 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 trial>, <e7 trial>, <e13 kidnapping>, <e14 robbery>, <e16 felonies>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 trial>, <e7 trial>, <e14 robbery>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 deaths>; SubSuper: <e9 stolen>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 kidnapping>, <e14 robbery>; SubSuper: <e9 stolen>, <e11 deaths>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 filed>, <e6 filed>; SuperSub: none; SubSuper: <e24 petition>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 filed>, <e6 filed>, <e18 filing>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 pleaded>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e9 strangled>; SuperSub: none; SubSuper: <e7 attacked>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 admitted>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 attacked>, <e8 abused>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e6 found>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e5 mortem>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 murdering>, <e3 rape>, <e8 abused>, <e9 strangled>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 attacked>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 murdering>, <e7 attacked>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 convicted>, <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: <e20 arrested>, <e23 arrested>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 sentenced>, <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 said>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e14 testified>, <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 convicted>, <e1 sentenced>, <e6 imposed>, <e7 finds>, <e13 contention>, <e22 said>; SubSuper: <e4 claimed>, <e5 ruled>, <e18 denied>, <e21 found>, <e25 found>"}
+{"label": "", "predict": "Coref: <e3 arrested>, <e23 arrested>; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e3 arrested>, <e20 arrested>; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 trial>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e14 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 promised>; SuperSub: none; SubSuper: <e14 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e14 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 promise>, <e13 promised>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e3 discovery>, <e7 discovery>; SuperSub: none; SubSuper: <e1 operation>, <e4 operation>"}
+{"label": "", "predict": "Coref: <e4 operation>; SuperSub: <e0 found>, <e3 discovery>, <e7 discovery>; SubSuper: <e8 made>, <e9 sealed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 found>, <e7 discovery>; SuperSub: none; SubSuper: <e1 operation>, <e4 operation>"}
+{"label": "", "predict": "Coref: <e1 operation>; SuperSub: <e0 found>, <e3 discovery>, <e5 suspended>, <e8 made>; SubSuper: <e7 discovery>, <e9 sealed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 found>, <e3 discovery>; SuperSub: none; SubSuper: <e1 operation>, <e4 operation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 found>, <e3 discovery>, <e7 discovery>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e9 shot>; SuperSub: <e3 attack>, <e16 incident>; SubSuper: <e22 attacks>"}
+{"label": "", "predict": "Coref: <e19 fire>; SuperSub: <e2 killing>, <e8 killed>, <e11 killing>; SubSuper: <e21 attacks>, <e20 killed>"}
+{"label": "", "predict": "Coref: <e8 killed>, <e11 killing>; SuperSub: <e9 shot>; SubSuper: <e10 turned>, <e16 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e19 fire>; SubSuper: <e1 fire>, <e3 attack>, <e21 attacks>, <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 fire>, <e2 killing>, <e8 killed>, <e11 killing>; SubSuper: <e9 shot>, <e16 incident>, <e19 fire>, <e21 attacks>, <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e20 killed>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e17 investigation>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e27 down>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e11 killing>; SuperSub: <e16 incident>; SubSuper: <e1 fire>, <e19 fire>"}
+{"label": "", "predict": "Coref: <e2 killing>; SuperSub: <e21 attacks>; SubSuper: <e3 attack>, <e9 shot>, <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 killing>; SubSuper: <e3 attack>, <e19 fire>, <e21 attacks>"}
+{"label": "", "predict": "Coref: <e1 fire>; SuperSub: <e2 killing>, <e8 killed>, <e29 invasion>; SubSuper: <e16 incident>, <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 killing>, <e19 fire>, <e21 attacks>; SubSuper: <e1 fire>, <e2 killing>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e3 attack>; SubSuper: <e16 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 fire>; SubSuper: <e9 shot>, <e16 incident>, <e19 fire>, <e21 attacks>"}
+{"label": "", "predict": "Coref: <e2 killing>, <e8 killed>; SuperSub: <e3 attack>; SubSuper: <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 killing>; SubSuper: <e1 fire>, <e18 opened>, <e21 attacks>"}
+{"label": "", "predict": "Coref: <e3 attack>; SuperSub: <e11 killing>; SubSuper: <e8 killed>, <e9 shot>, <e19 fire>, <e22 attacks>"}
+{"label": "", "predict": "Coref: <e4 investigation>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 opened>; SuperSub: none; SubSuper: <e16 incident>"}
+{"label": "", "predict": "Coref: <e9 shot>; SuperSub: <e2 killing>, <e11 killing>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 fire>; SuperSub: <e3 attack>, <e8 killed>, <e16 incident>; SubSuper: <e21 attacks>, <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 attacks>; SubSuper: <e22 attacks>"}
+{"label": "", "predict": "Coref: <e22 attacks>; SuperSub: <e3 attack>, <e8 killed>, <e11 killing>; SubSuper: <e9 shot>, <e16 incident>, <e19 fire>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 killing>, <e20 killed>; SubSuper: <e1 fire>, <e6 down>, <e10 turned>, <e29 invasion>, <e31 injured>"}
+{"label": "", "predict": "Coref: <e21 attacks>; SuperSub: <e11 killing>; SubSuper: <e8 killed>, <e19 fire>, <e20 killed>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 down>, <e18 opened>, <e30 killed>; SubSuper: <e1 fire>, <e2 killing>, <e3 attack>, <e9 shot>, <e16 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 talks>, <e7 talks>; SuperSub: <e2 drag>, <e18 turmoil>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 negotiations>, <e7 talks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 talks>, <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 elections>, <e30 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 talks>, <e1 negotiations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 negotiations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e0 talks>, <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 talks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 negotiations>, <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 elections>, <e30 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e29 recession>; SubSuper: <e9 won>, <e12 failed>, <e25 campaign>"}
+{"label": "", "predict": "Coref: <e10 elections>; SuperSub: <e30 election>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e4 elections>, <e18 turmoil>, <e24 drop>, <e29 recession>; SubSuper: <e5 bailout>, <e9 won>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e4 elections>, <e26 souring>; SubSuper: <e5 bailout>, <e7 talks>, <e8 failed>, <e9 won>, <e11 poll>, <e29 recession>, <e30 election>, <e34 pushing>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 talks>, <e1 negotiations>, <e25 campaign>; SubSuper: <e2 drag>, <e10 elections>, <e12 failed>, <e16 looking>, <e22 increase>, <e24 drop>, <e27 hammered>, <e32 survey>, <e35 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e29 recession>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e25 campaign>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>, <e29 recession>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 elections>; SubSuper: <e30 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e29 recession>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 elections>, <e11 poll>; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e30 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 elections>, <e26 souring>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: <e10 elections>; SuperSub: <e27 hammered>; SubSuper: <e9 won>, <e24 drop>, <e25 campaign>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e30 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e35 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e36 conducted>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 survey>; SubSuper: <e35 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 survey>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 poll>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 summoned>; SuperSub: none; SubSuper: <e0 talks>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 election>, <e40 process>; SubSuper: <e35 vote>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 vote>, <e18 cast>; SubSuper: <e2 election>, <e29 election>, <e36 voting>"}
+{"label": "", "predict": "Coref: <e29 election>; SuperSub: <e9 violence>, <e18 cast>, <e23 protests>, <e27 organised>, <e38 delays>; SubSuper: <e20 killed>, <e21 violence>, <e36 voting>"}
+{"label": "", "predict": "Coref: <e6 vote>, <e7 election>, <e35 vote>; SuperSub: <e1 counting>, <e41 tally>; SubSuper: <e40 process>, <e42 lost>, <e43 destroyed>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e21 violence>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e23 protests>"}
+{"label": "", "predict": "Coref: <e2 election>, <e29 election>, <e35 vote>; SuperSub: <e1 counting>; SubSuper: <e40 process>, <e41 tally>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e18 cast>, <e44 process>; SubSuper: <e7 election>"}
+{"label": "", "predict": "Coref: <e2 election>, <e35 vote>; SuperSub: <e9 violence>, <e23 protests>, <e25 shutting>, <e28 funded>, <e36 voting>, <e43 destroyed>, <e44 process>; SubSuper: <e1 counting>, <e4 try>, <e17 issued>, <e41 tally>"}
+{"label": "", "predict": "Coref: <e29 election>; SuperSub: <e20 killed>, <e38 delays>; SubSuper: <e6 vote>, <e18 cast>, <e21 violence>, <e27 organised>, <e42 lost>, <e40 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e21 violence>; SuperSub: <e20 killed>; SubSuper: <e29 election>, <e35 vote>, <e36 voting>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 election>, <e7 election>, <e23 protests>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 vote>, <e35 vote>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 election>, <e29 election>; SubSuper: <e36 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 violence>; SubSuper: <e7 election>, <e35 vote>, <e36 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 violence>; SubSuper: <e2 election>, <e6 vote>, <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 election>, <e29 election>, <e35 vote>"}
+{"label": "", "predict": "Coref: <e9 violence>; SuperSub: <e20 killed>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 violence>; SubSuper: <e20 killed>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 violence>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 election>, <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 election>, <e6 vote>, <e35 vote>; SuperSub: <e21 violence>, <e23 protests>, <e25 shutting>, <e36 voting>, <e40 process>, <e41 tally>; SubSuper: <e38 delays>, <e44 process>"}
+{"label": "", "predict": "Coref: <e7 election>; SuperSub: <e9 violence>, <e18 cast>, <e43 destroyed>; SubSuper: <e1 counting>, <e20 killed>, <e27 organised>, <e28 funded>, <e37 stretched>, <e42 lost>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 killed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e30 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e29 election>; SuperSub: <e9 violence>, <e23 protests>, <e27 organised>, <e28 funded>, <e36 voting>, <e41 tally>, <e42 lost>, <e43 destroyed>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 vote>; SuperSub: <e20 killed>, <e38 delays>; SubSuper: <e2 election>, <e7 election>, <e18 cast>, <e21 violence>, <e25 shutting>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 vote>, <e8 marred>, <e9 violence>, <e38 delays>, <e42 lost>; SubSuper: <e29 election>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 election>, <e7 election>, <e23 protests>, <e28 funded>, <e35 vote>; SubSuper: <e18 cast>, <e41 tally>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 election>, <e9 violence>, <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e36 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e34 hold>"}
+{"label": "", "predict": "Coref: <e1 counting>, <e44 process>; SuperSub: <e6 vote>, <e29 election>, <e41 tally>; SubSuper: <e42 lost>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 vote>; SubSuper: <e2 election>, <e36 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 election>, <e18 cast>, <e35 vote>; SubSuper: <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e35 vote>; SubSuper: <e2 election>, <e7 election>, <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e6 vote>, <e29 election>, <e36 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e35 vote>; SubSuper: <e2 election>, <e7 election>, <e29 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 vote>, <e18 cast>, <e36 voting>; SubSuper: <e44 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 violence>, <e20 killed>, <e23 protests>, <e40 process>; SubSuper: <e38 delays>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 counting>, <e6 vote>, <e29 election>, <e35 vote>, <e41 tally>; SubSuper: <e2 election>, <e7 election>, <e42 lost>, <e43 destroyed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e30 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e48 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e47 won>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e10 raids>; SuperSub: none; SubSuper: <e16 began>"}
+{"label": "", "predict": "Coref: <e7 raids>, <e15 raids>; SuperSub: none; SubSuper: <e18 action>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e4 sanction>, <e34 mining>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 action>"}
+{"label": "", "predict": "Coref: <e0 raids>, <e10 raids>, <e15 raids>; SuperSub: none; SubSuper: <e16 began>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 raids>, <e7 raids>; SuperSub: none; SubSuper: <e18 action>"}
+{"label": "", "predict": "Coref: <e15 raids>; SuperSub: <e16 began>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e34 mining>"}
+{"label": "", "predict": "Coref: <e10 raids>; SuperSub: <e11 come>, <e16 began>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 raids>, <e7 raids>; SuperSub: none; SubSuper: <e18 action>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 raids>, <e18 action>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 raids>, <e10 raids>, <e15 raids>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 come>"}
+{"label": "", "predict": "Coref: <e0 raids>, <e7 raids>, <e10 raids>, <e15 raids>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e18 action>; SubSuper: <e24 submitting>, <e25 resignations>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e19 comes>; SubSuper: <e22 revolt>, <e23 gunning>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e25 resignations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e20 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 revolt>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e20 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 revolt>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e22 revolt>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e20 turmoil>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e22 revolt>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e20 turmoil>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e34 mining>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e14 slammed>; SuperSub: <e15 raining>, <e22 carrying>; SubSuper: <e23 flight>, <e24 take>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 probe>, <e29 investigation>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e9 probe>, <e29 investigation>"}
+{"label": "", "predict": "Coref: <e29 investigation>; SuperSub: <e7 arrived>, <e8 join>, <e10 became>, <e18 arrived>, <e19 discovered>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e9 probe>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 crash>; SuperSub: <e15 raining>, <e22 carrying>; SubSuper: <e23 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 crash>, <e13 flight>; SubSuper: <e14 slammed>, <e23 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e23 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 crash>, <e20 fall>, <e24 take>; SubSuper: <e5 caused>, <e14 slammed>, <e15 raining>, <e22 carrying>, <e25 asked>, <e26 disappearing>, <e27 asked>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e23 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e23 flight>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e9 probe>; SuperSub: <e7 arrived>, <e8 join>, <e10 became>, <e18 arrived>, <e19 discovered>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e6 trying>, <e7 leaving>, <e9 got>"}
+{"label": "", "predict": "Coref: <e13 shot>, <e22 gunshots>, <e53 shot>; SuperSub: <e8 checkup>, <e10 altercation>, <e61 slaying>; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e1 death>, <e46 gunshots>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 trying>, <e18 tried>; SubSuper: <e0 shot>, <e22 gunshots>, <e53 shot>"}
+{"label": "", "predict": "Coref: <e5 died>, <e61 slaying>; SuperSub: <e32 incident>; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 leaving>, <e13 shot>, <e17 screamed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e61 slaying>"}
+{"label": "", "predict": "Coref: <e14 took>, <e62 abduction>; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e25 found>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e37 found>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 shot>, <e61 slaying>; SuperSub: <e32 incident>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 death>, <e53 shot>; SuperSub: none; SubSuper: <e6 trying>, <e7 leaving>, <e13 shot>, <e22 gunshots>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 altercation>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e8 checkup>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 leaving>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e7 leaving>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 incident>; SubSuper: <e13 shot>, <e61 slaying>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e31 alerted>, <e53 shot>; SubSuper: <e7 leaving>, <e8 checkup>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 shot>, <e9 got>; SubSuper: <e22 gunshots>, <e46 gunshots>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e5 died>, <e53 shot>; SuperSub: none; SubSuper: <e7 leaving>, <e46 gunshots>"}
+{"label": "", "predict": "Coref: <e22 gunshots>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 shot>, <e61 slaying>; SuperSub: none; SubSuper: <e10 altercation>, <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 incident>, <e62 abduction>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: <e2 snatched>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e18 tried>, <e62 abduction>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e16 hitting>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 altercation>, <e32 incident>; SubSuper: <e61 slaying>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 shot>, <e5 died>, <e9 got>, <e61 slaying>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 shot>, <e46 gunshots>; SuperSub: none; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 incident>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e3 found>, <e37 found>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 shot>, <e2 snatched>, <e9 got>; SubSuper: <e1 death>, <e22 gunshots>, <e46 gunshots>, <e53 shot>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 trying>; SubSuper: <e16 hitting>, <e21 hearing>, <e31 alerted>, <e62 abduction>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 shot>, <e33 called>, <e39 shieldssearched>, <e48 saw>, <e61 slaying>; SubSuper: <e5 died>, <e7 leaving>, <e10 altercation>, <e14 took>, <e15 sped>, <e56 placed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e3 found>, <e25 found>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e39 shields>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e40 processing>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e39 shieldssearched>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 shot>, <e1 death>; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e61 slaying>; SubSuper: <e32 incident>, <e53 shot>"}
+{"label": "", "predict": "Coref: <e13 shot>, <e22 gunshots>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 shot>; SuperSub: none; SubSuper: <e22 gunshots>, <e46 gunshots>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: <e1 death>, <e5 died>; SuperSub: none; SubSuper: <e6 trying>, <e10 altercation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 shot>; SuperSub: <e10 altercation>; SubSuper: <e7 leaving>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e32 incident>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 shot>, <e5 died>, <e53 shot>; SuperSub: none; SubSuper: <e1 death>, <e22 gunshots>"}
+{"label": "", "predict": "Coref: <e2 snatched>; SuperSub: none; SubSuper: <e15 sped>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e10 altercation>"}
+{"label": "", "predict": "Coref: <e14 took>; SuperSub: none; SubSuper: <e32 incident>"}
+{"label": "", "predict": "Coref: <e5 shot>, <e8 killings>, <e22 killings>; SuperSub: <e6 gunfight>, <e13 campaign>, <e16 attacks>, <e20 killings>; SubSuper: <e2 meeting>, <e4 fire>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 gunfight>, <e7 fled>; SubSuper: <e0 killed>, <e4 fire>, <e5 shot>, <e8 killings>, <e9 came>, <e22 killings>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 killed>, <e5 shot>, <e8 killings>; SubSuper: <e1 providing>, <e6 gunfight>, <e9 came>, <e13 campaign>, <e16 attacks>, <e20 killings>, <e22 killings>, <e29 shootings>"}
+{"label": "", "predict": "Coref: <e0 killed>, <e8 killings>, <e22 killings>; SuperSub: none; SubSuper: <e1 providing>, <e2 meeting>, <e4 fire>, <e6 gunfight>, <e9 came>, <e13 campaign>, <e16 attacks>, <e20 killings>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 killed>, <e4 fire>, <e5 shot>, <e8 killings>, <e9 came>, <e29 shootings>; SubSuper: <e1 providing>, <e2 meeting>, <e7 fled>, <e16 attacks>, <e20 killings>, <e22 killings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 killed>, <e5 shot>, <e22 killings>; SuperSub: <e9 came>, <e29 shootings>; SubSuper: <e2 meeting>, <e4 fire>, <e6 gunfight>, <e7 fled>, <e16 attacks>, <e20 killings>, <e21 assassinations>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 quarrel>; SubSuper: <e16 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 shot>; SubSuper: <e14 shot>, <e15 wounded>, <e16 attacks>, <e20 killings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 campaign>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 killed>, <e10 shot>, <e12 died>, <e16 attacks>, <e18 leading>, <e20 killings>, <e22 killings>, <e28 increase>, <e29 shootings>; SubSuper: <e1 providing>, <e2 meeting>, <e3 opened>, <e4 fire>, <e5 shot>, <e6 gunfight>, <e7 fled>, <e8 killings>, <e11 quarrel>, <e14 shot>, <e15 wounded>, <e21 assassinations>, <e24 incidents>, <e25 shoot>"}
+{"label": "", "predict": "Coref: <e10 shot>; SuperSub: <e11 quarrel>, <e13 campaign>; SubSuper: <e16 attacks>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 campaign>; SubSuper: <e16 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 quarrel>, <e21 assassinations>, <e22 killings>; SubSuper: <e0 killed>, <e4 fire>, <e5 shot>, <e6 gunfight>, <e7 fled>, <e8 killings>, <e10 shot>, <e12 died>, <e14 shot>, <e15 wounded>, <e20 killings>, <e24 incidents>, <e25 shoot>, <e28 increase>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 killed>, <e8 killings>, <e22 killings>; SuperSub: <e2 meeting>, <e6 gunfight>; SubSuper: <e4 fire>, <e5 shot>, <e7 fled>, <e9 came>, <e13 campaign>, <e16 attacks>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e0 killed>, <e8 killings>, <e22 killings>; SubSuper: <e4 fire>, <e5 shot>, <e6 gunfight>, <e7 fled>, <e9 came>, <e16 attacks>, <e20 killings>"}
+{"label": "", "predict": "Coref: <e0 killed>, <e8 killings>; SuperSub: <e2 meeting>, <e6 gunfight>, <e7 fled>; SubSuper: <e4 fire>, <e5 shot>, <e9 came>, <e16 attacks>, <e20 killings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 assassinations>, <e25 shoot>; SubSuper: <e11 quarrel>, <e22 killings>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e24 incidents>; SubSuper: <e26 feuds>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 quarrel>, <e24 incidents>, <e25 shoot>; SubSuper: <e16 attacks>, <e29 shootings>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e16 attacks>; SuperSub: <e10 shot>, <e11 quarrel>, <e28 increase>; SubSuper: <e0 killed>, <e1 providing>, <e2 meeting>, <e3 opened>, <e4 fire>, <e5 shot>, <e6 gunfight>, <e7 fled>, <e8 killings>, <e12 died>, <e13 campaign>, <e15 wounded>, <e20 killings>, <e22 killings>, <e24 incidents>, <e25 shoot>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 campaign>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e6 won>; SuperSub: <e13 voting>, <e19 vote>, <e31 race>; SubSuper: <e62 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e65 election>; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: <e9 triumph>; SuperSub: none; SubSuper: <e17 elections>"}
+{"label": "", "predict": "Coref: <e8 triumph>, <e21 victory>; SuperSub: none; SubSuper: <e15 election>"}
+{"label": "", "predict": "Coref: <e31 race>, <e62 elections>; SuperSub: <e1 victory>, <e13 voting>; SubSuper: <e8 triumph>, <e19 vote>, <e52 polling>"}
+{"label": "", "predict": "Coref: <e56 elections>; SuperSub: none; SubSuper: <e3 development>, <e49 vote>"}
+{"label": "", "predict": "Coref: <e94 election>; SuperSub: <e21 victory>, <e22 held>, <e47 exclusion>; SubSuper: <e43 underlined>, <e63 created>, <e66 opportunity>"}
+{"label": "", "predict": "Coref: <e15 election>, <e17 elections>, <e65 election>; SuperSub: <e6 won>; SubSuper: <e7 contested>, <e9 triumph>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e17 elections>, <e62 elections>, <e94 election>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e15 election>, <e31 race>; SubSuper: <e49 vote>, <e65 election>"}
+{"label": "", "predict": "Coref: <e1 victory>, <e21 victory>; SuperSub: none; SubSuper: <e13 voting>, <e19 vote>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 voting>, <e31 race>, <e65 election>; SubSuper: <e15 election>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e19 vote>, <e23 elections>; SubSuper: <e2 elections>, <e68 test>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e62 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e56 elections>"}
+{"label": "", "predict": "Coref: <e1 victory>; SuperSub: none; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e17 elections>, <e31 race>; SubSuper: <e62 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: <e9 triumph>; SuperSub: <e13 voting>; SubSuper: <e2 elections>, <e49 vote>, <e94 election>"}
+{"label": "", "predict": "Coref: <e6 won>; SuperSub: none; SubSuper: <e15 election>, <e19 vote>"}
+{"label": "", "predict": "Coref: <e8 triumph>; SuperSub: none; SubSuper: <e13 voting>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e19 vote>, <e62 elections>; SubSuper: <e2 elections>, <e65 election>, <e94 election>"}
+{"label": "", "predict": "Coref: <e1 victory>, <e6 won>; SuperSub: <e15 election>, <e17 elections>; SubSuper: <e31 race>, <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e9 triumph>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e49 vote>; SuperSub: <e1 victory>, <e64 promotion>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e19 vote>; SuperSub: <e23 elections>, <e66 opportunity>; SubSuper: <e7 contested>, <e68 test>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e15 election>, <e62 elections>, <e94 election>; SuperSub: <e6 won>, <e21 victory>, <e65 election>; SubSuper: <e44 fielded>, <e45 rejected>, <e52 polling>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 triumph>, <e17 elections>, <e27 Released>, <e31 race>; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e31 race>; SuperSub: <e21 victory>, <e23 elections>, <e28 allowed>, <e30 rally>, <e58 gathered>; SubSuper: <e3 development>, <e5 said>, <e44 fielded>, <e47 exclusion>, <e70 election>, <e80 race>"}
+{"label": "", "predict": "Coref: <e17 elections>, <e56 elections>; SuperSub: <e1 victory>, <e9 triumph>; SubSuper: <e52 polling>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e65 election>; SuperSub: <e6 won>, <e13 voting>; SubSuper: <e7 contested>"}
+{"label": "", "predict": "Coref: <e62 elections>, <e94 election>; SuperSub: <e19 vote>, <e49 vote>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e9 triumph>, <e13 voting>, <e19 vote>, <e27 Released>, <e44 fielded>, <e49 vote>, <e52 polling>; SubSuper: <e68 test>"}
+{"label": "", "predict": "Coref: <e65 election>, <e94 election>; SuperSub: <e6 won>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 victory>, <e8 triumph>, <e21 victory>, <e26 arrest>, <e45 rejected>, <e54 received>; SubSuper: <e7 contested>, <e11 arrived>, <e31 race>, <e58 gathered>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e15 election>, <e56 elections>, <e62 elections>; SuperSub: none; SubSuper: <e47 exclusion>, <e51 monitor>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 voting>; SuperSub: none; SubSuper: <e17 elections>, <e31 race>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e9 triumph>, <e62 elections>; SubSuper: <e15 election>, <e8 triumph>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 victory>, <e23 elections>, <e65 election>; SubSuper: <e1 victory>, <e68 test>"}
+{"label": "", "predict": "Coref: <e49 vote>; SuperSub: <e56 elections>, <e94 election>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e1 victory>, <e6 won>; SuperSub: <e19 vote>; SubSuper: <e15 election>, <e62 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e23 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e21 victory>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e26 arrest>; SubSuper: <e95 repression>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e95 repression>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e96 confinement>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e95 repression>; SubSuper: <e26 arrest>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e29 crisscross>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e62 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e15 election>, <e52 polling>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 race>"}
+{"label": "", "predict": "Coref: <e13 voting>, <e15 election>, <e49 vote>; SuperSub: <e6 won>; SubSuper: <e47 exclusion>"}
+{"label": "", "predict": "Coref: <e56 elections>; SuperSub: <e1 victory>, <e9 triumph>; SubSuper: <e7 contested>, <e8 triumph>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e62 elections>, <e94 election>; SuperSub: <e19 vote>, <e21 victory>; SubSuper: <e3 development>, <e57 raised>, <e65 election>, <e68 test>"}
+{"label": "", "predict": "Coref: <e17 elections>; SuperSub: <e27 Released>, <e44 fielded>, <e52 polling>; SubSuper: <e58 gathered>, <e64 promotion>, <e66 opportunity>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e34 trip>; SubSuper: <e38 visit>, <e39 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e39 visit>; SubSuper: <e41 received>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e38 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e40 made>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e39 visit>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e38 visit>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e40 made>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e34 trip>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e39 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e77 condemnation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e34 trip>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e38 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e34 trip>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e39 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e38 visit>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e19 vote>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 elections>, <e56 elections>, <e62 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e31 race>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e47 exclusion>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e19 vote>, <e56 elections>, <e62 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e15 election>, <e31 race>; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e62 elections>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e19 vote>; SuperSub: <e62 elections>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 voting>; SuperSub: none; SubSuper: <e23 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e17 elections>, <e31 race>; SuperSub: <e6 won>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e15 election>, <e21 victory>, <e56 elections>; SubSuper: <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e15 election>, <e31 race>, <e62 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e17 elections>, <e31 race>, <e56 elections>; SubSuper: <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e15 election>, <e62 elections>; SubSuper: <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 voting>; SubSuper: <e2 elections>, <e68 test>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 elections>, <e49 vote>; SuperSub: <e7 contested>, <e19 vote>, <e23 elections>; SubSuper: <e52 polling>"}
+{"label": "", "predict": "Coref: <e17 elections>, <e31 race>, <e94 election>; SuperSub: <e9 triumph>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 voting>, <e15 election>, <e62 elections>, <e65 election>; SuperSub: <e21 victory>, <e22 held>, <e28 allowed>, <e66 opportunity>; SubSuper: <e47 exclusion>, <e51 monitor>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 won>, <e8 triumph>, <e44 fielded>, <e45 rejected>; SubSuper: <e1 victory>, <e54 received>, <e57 raised>, <e68 test>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e2 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e17 elections>, <e62 elections>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e19 vote>, <e31 race>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e31 race>, <e62 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e15 election>, <e65 election>, <e68 test>, <e80 race>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e1 victory>, <e8 triumph>; SubSuper: <e7 contested>"}
+{"label": "", "predict": "Coref: <e31 race>, <e56 elections>; SuperSub: <e21 victory>, <e54 received>; SubSuper: <e64 promotion>, <e65 election>"}
+{"label": "", "predict": "Coref: <e15 election>, <e17 elections>, <e94 election>; SuperSub: <e6 won>, <e19 vote>, <e52 polling>; SubSuper: <e45 rejected>, <e49 vote>"}
+{"label": "", "predict": "Coref: <e2 elections>, <e13 voting>; SuperSub: <e9 triumph>; SubSuper: <e44 fielded>, <e47 exclusion>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 elections>, <e56 elections>; SuperSub: <e1 victory>, <e9 triumph>, <e21 victory>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e19 vote>, <e31 race>, <e62 elections>, <e94 election>; SuperSub: <e8 triumph>; SubSuper: <e47 exclusion>"}
+{"label": "", "predict": "Coref: <e13 voting>, <e17 elections>; SuperSub: <e6 won>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e15 election>; SuperSub: <e0 claimed>, <e52 polling>, <e77 condemnation>; SubSuper: <e7 contested>, <e49 vote>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e68 test>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e62 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e19 vote>, <e56 elections>; SubSuper: <e15 election>, <e31 race>, <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e65 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 voting>, <e19 vote>, <e56 elections>, <e94 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e2 elections>, <e17 elections>; SubSuper: <e15 election>, <e49 vote>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e31 race>, <e62 elections>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e80 race>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e71 derided>, <e78 manipulating>, <e79 process>"}
+{"label": "", "predict": "Coref: <e74 election>; SuperSub: <e73 contest>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e70 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e74 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e80 race>"}
+{"label": "", "predict": "Coref: <e70 election>; SuperSub: none; SubSuper: <e77 condemnation>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e80 race>; SubSuper: <e78 manipulating>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 voting>, <e75 boycotted>; SubSuper: <e79 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e70 election>, <e74 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e79 process>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e80 race>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e74 election>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e80 race>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e78 manipulating>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e77 condemnation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e79 process>"}
+{"label": "", "predict": "Coref: <e74 election>; SuperSub: <e78 manipulating>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e2 elections>, <e13 voting>, <e62 elections>; SuperSub: <e6 won>, <e24 ignored>, <e39 visit>, <e52 polling>; SubSuper: <e1 victory>, <e64 promotion>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e19 vote>, <e26 arrest>, <e66 opportunity>; SubSuper: <e5 said>, <e7 contested>, <e44 fielded>, <e45 rejected>, <e53 said>, <e77 condemnation>"}
+{"label": "", "predict": "Coref: <e17 elections>, <e31 race>; SuperSub: <e3 development>, <e8 triumph>, <e11 arrived>, <e47 exclusion>, <e68 test>; SubSuper: <e51 monitor>"}
+{"label": "", "predict": "Coref: <e15 election>, <e49 vote>, <e65 election>; SuperSub: <e9 triumph>; SubSuper: <e21 victory>, <e23 elections>, <e56 elections>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e25 placed>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e26 arrest>; SubSuper: <e96 confinement>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e95 repression>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e26 arrest>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e4 announcement>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e11 fight>, <e24 war>; SuperSub: <e10 handover>, <e36 assassination>, <e45 killing>, <e47 withdrawal>, <e49 growth>, <e52 attacks>; SubSuper: <e13 campaign>, <e20 elected>, <e23 dwindling>, <e28 crisis>, <e34 occupation>"}
+{"label": "", "predict": "Coref: <e32 war>, <e33 war>; SuperSub: <e12 insurgency>, <e51 11>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e0 announced>; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 transition>, <e24 war>, <e32 war>; SubSuper: <e3 conflict>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 fight>, <e13 campaign>; SubSuper: <e10 handover>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e6 move>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e10 handover>, <e34 occupation>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e7 transition>; SubSuper: <e24 war>, <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e6 move>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e24 war>, <e30 calls>, <e32 war>; SubSuper: <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e12 insurgency>; SubSuper: <e3 conflict>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e34 occupation>, <e45 killing>; SubSuper: <e24 war>, <e38 blow>, <e52 attacks>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 fight>; SubSuper: <e3 conflict>, <e32 war>, <e33 war>"}
+{"label": "", "predict": "Coref: <e3 conflict>, <e24 war>, <e32 war>; SuperSub: <e6 move>, <e15 declining>, <e17 withdrawal>, <e51 11>; SubSuper: <e1 growing>, <e18 announced>, <e20 elected>, <e28 crisis>, <e30 calls>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 fight>, <e33 war>, <e34 occupation>, <e36 assassination>, <e42 death>, <e45 killing>, <e47 withdrawal>, <e48 brought>, <e52 attacks>; SubSuper: <e12 insurgency>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 fight>, <e24 war>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e20 elected>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e3 conflict>, <e24 war>; SubSuper: <e13 campaign>, <e33 war>, <e34 occupation>"}
+{"label": "", "predict": "Coref: <e3 conflict>, <e33 war>; SuperSub: <e7 transition>, <e10 handover>, <e11 fight>; SubSuper: none"}
+{"label": "", "predict": "Coref: <e13 campaign>, <e32 war>; SuperSub: <e12 insurgency>, <e36 assassination>, <e42 death>, <e45 killing>; SubSuper: <e1 growing>, <e2 calls>, <e15 declining>, <e23 dwindling>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e33 war>; SuperSub: <e12 insurgency>, <e42 death>, <e45 killing>, <e47 withdrawal>, <e49 growth>, <e52 attacks>; SubSuper: <e2 calls>, <e17 withdrawal>, <e38 blow>"}
+{"label": "", "predict": "Coref: <e3 conflict>, <e24 war>; SuperSub: <e6 move>, <e11 fight>, <e36 assassination>; SubSuper: <e1 growing>, <e15 declining>, <e23 dwindling>, <e28 crisis>, <e34 occupation>"}
+{"label": "", "predict": "Coref: <e11 fight>, <e32 war>; SuperSub: <e45 killing>, <e47 withdrawal>, <e52 attacks>; SubSuper: <e6 move>, <e17 withdrawal>, <e34 occupation>"}
+{"label": "", "predict": "Coref: <e3 conflict>, <e24 war>; SuperSub: <e2 calls>, <e12 insurgency>, <e13 campaign>; SubSuper: <e7 transition>, <e10 handover>, <e36 assassination>, <e42 death>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e3 conflict>, <e7 transition>, <e10 handover>, <e32 war>; SubSuper: <e12 insurgency>, <e13 campaign>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 fight>, <e24 war>, <e33 war>; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e45 killing>; SuperSub: <e38 blow>; SubSuper: <e39 talks>"}
+{"label": "", "predict": "Coref: <e42 death>; SuperSub: none; SubSuper: <e13 campaign>, <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: <e11 fight>; SubSuper: <e36 assassination>, <e42 death>"}
+{"label": "", "predict": "Coref: none; SuperSub: <e13 campaign>, <e33 war>; SubSuper: <e3 conflict>, <e12 insurgency>, <e24 war>, <e32 war>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e41 reach>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e39 talks>"}
+{"label": "", "predict": "Coref: <e36 assassination>; SuperSub: none; SubSuper: <e12 insurgency>, <e13 campaign>"}
+{"label": "", "predict": "Coref: <e45 killing>; SuperSub: <e24 war>; SubSuper: <e32 war>, <e33 war>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: <e36 assassination>; SuperSub: <e13 campaign>; SubSuper: <e11 fight>, <e12 insurgency>, <e24 war>, <e34 occupation>"}
+{"label": "", "predict": "Coref: <e42 death>; SuperSub: <e39 talks>; SubSuper: <e32 war>, <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e3 conflict>, <e11 fight>, <e13 campaign>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e12 insurgency>, <e24 war>, <e32 war>, <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e32 war>, <e33 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e13 campaign>, <e32 war>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: <e11 fight>, <e34 occupation>"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}
+{"label": "", "predict": "Coref: none; SuperSub: none; SubSuper: none"}

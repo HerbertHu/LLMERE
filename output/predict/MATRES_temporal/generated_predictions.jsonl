@@ -1,0 +1,332 @@
+{"label": "", "predict": "EQUAL: none; BEFORE: <e3 leaving>, <e4 apologized>, <e8 eased>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e1 scoring>, <e3 leaving>, <e4 apologized>, <e8 eased>, <e9 happened>, <e12 departed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e12 departed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 dropped>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 dropped>, <e27 prosecuting>, <e28 said>, <e29 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 suspended>, <e28 said>, <e29 agreed>, <e31 omitted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e4 apologized>, <e8 eased>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e3 leaving>, <e8 eased>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 sought>, <e8 eased>, <e12 departed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 said>, <e20 dropped>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 suspended>"}
+{"label": "", "predict": "EQUAL: <e27 prosecuting>; BEFORE: <e25 suspended>, <e28 said>, <e31 omitted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e3 leaving>, <e4 apologized>, <e7 sought>, <e8 eased>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 arrived>, <e1 scoring>, <e3 leaving>, <e4 apologized>, <e7 sought>, <e8 eased>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 projecting>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 reduce>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 says>, <e14 pointing>, <e16 says>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 pointing>, <e17 suggests>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e17 suggests>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 says>, <e10 says>, <e14 pointing>, <e17 suggests>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 filing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e24 vary>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 Starting>, <e28 block>, <e32 reduce>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e23 getting>, <e24 vary>, <e27 Starting>, <e28 block>, <e32 reduce>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e24 vary>, <e28 block>, <e32 reduce>, <e34 reining>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 reduce>, <e34 reining>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 filing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e3 sparking>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 killed>, <e3 sparking>, <e5 ended>, <e6 according>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e9 said>, <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 died>, <e17 vaccinated>, <e19 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e28 dropping>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 killed>, <e2 started>, <e5 ended>, <e6 according>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 recommends>, <e17 vaccinated>, <e19 said>, <e20 considered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 recommends>, <e19 said>, <e20 considered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 peaked>, <e29 appear>, <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 according>, <e9 said>, <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 ended>, <e6 according>, <e9 said>, <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 recommends>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 peaked>, <e28 dropping>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 sat>, <e6 marched>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 shaping>, <e23 pass>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 charged>, <e23 pass>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 charged>, <e21 shaping>, <e25 presides>, <e26 shepherded>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 charged>, <e21 shaping>, <e23 pass>, <e25 presides>, <e26 shepherded>"}
+{"label": "", "predict": "EQUAL: <e31 have>; BEFORE: <e28 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e29 growing>, <e33 hold>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e38 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e39 think>, <e41 having>, <e44 crack>, <e46 forming>, <e50 allowing>, <e51 serve>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e39 think>, <e41 having>, <e43 begun>, <e44 crack>, <e50 allowing>, <e51 serve>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 begun>, <e44 crack>, <e46 forming>, <e50 allowing>, <e51 serve>, <e52 split>, <e53 voted>, <e55 lapsed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 marched>, <e7 told>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 charged>, <e21 shaping>, <e23 pass>, <e24 led>, <e26 shepherded>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e38 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e39 think>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 begun>, <e44 crack>, <e46 forming>, <e48 led>, <e51 serve>, <e52 split>, <e53 voted>, <e55 lapsed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 begun>, <e44 crack>, <e46 forming>, <e48 led>, <e50 allowing>, <e52 split>, <e53 voted>, <e55 lapsed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e48 led>, <e52 split>, <e53 voted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 gathered>, <e4 sat>, <e6 marched>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 gathered>, <e2 slipped>, <e4 sat>, <e6 marched>, <e7 told>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 told>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 told>, <e10 stuck>, <e11 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 sworn>, <e16 morphed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e12 became>, <e16 morphed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 charged>, <e21 shaping>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 dispenses>, <e20 charged>, <e21 shaping>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 growing>, <e28 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e28 said>, <e29 growing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e29 growing>, <e31 have>, <e33 hold>"}
+{"label": "", "predict": "EQUAL: <e31 have>; BEFORE: <e29 growing>, <e30 started>, <e33 hold>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e38 said>, <e39 think>, <e44 crack>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e53 voted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 created>, <e12 contend>, <e14 contribute>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e34 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e47 said>, <e48 saying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e45 explains>, <e47 said>, <e52 notes>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 resulting>, <e12 contend>, <e14 contribute>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e33 said>, <e34 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e48 saying>, <e52 notes>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 mount>, <e27 forming>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 struggling>, <e27 forming>, <e33 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e33 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e60 snapped>, <e61 admitted>, <e64 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e61 admitted>, <e64 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e60 snapped>, <e64 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 resulting>, <e10 created>, <e12 contend>, <e17 creates>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 contribute>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e33 said>, <e34 said>, <e35 referring>, <e39 studied>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e34 said>, <e35 referring>, <e37 touched>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e64 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 happened>, <e7 wrapped>, <e11 seemed>, <e12 yield>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 seemed>, <e12 yield>, <e13 confirmed>, <e15 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 confirmed>, <e19 accepted>, <e20 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 accepted>, <e20 said>, <e21 sought>, <e27 left>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e56 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 apologized>, <e11 seemed>, <e12 yield>, <e13 confirmed>, <e15 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 apologized>, <e7 wrapped>, <e11 seemed>, <e13 confirmed>, <e15 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 confirmed>, <e15 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 sought>, <e23 sought>, <e31 pointed>, <e32 apologized>, <e35 agreed>, <e37 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 apologized>, <e35 agreed>, <e37 said>, <e38 told>, <e40 expresses>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e35 agreed>, <e37 said>, <e38 told>, <e40 expresses>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e37 said>, <e38 told>, <e40 expresses>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e31 pointed>, <e32 apologized>, <e35 agreed>, <e37 said>, <e38 told>, <e40 expresses>, <e43 said>, <e45 spoken>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e37 said>, <e40 expresses>, <e43 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e37 said>, <e38 told>, <e43 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 said>, <e47 said>, <e50 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 said>, <e47 said>, <e50 agreed>, <e56 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e47 said>, <e56 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 accepted>, <e20 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 alleged>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 informed>, <e9 called>, <e11 indicates>, <e12 believes>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 informed>, <e6 denied>, <e8 alleged>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 informed>, <e8 alleged>, <e9 called>, <e11 indicates>, <e12 believes>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 said>"}
+{"label": "", "predict": "EQUAL: <e9 called>; BEFORE: <e14 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 indicates>, <e14 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 gives>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e3 pleaded>, <e4 announced>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 accused>, <e3 pleaded>, <e4 announced>, <e5 reported>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 announced>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 accused>, <e1 faking>, <e3 pleaded>, <e4 announced>, <e8 said>, <e9 learned>, <e10 pulled>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 accused>, <e1 faking>, <e3 pleaded>, <e4 announced>, <e5 reported>, <e8 said>, <e9 learned>, <e10 pulled>, <e11 speeding>"}
+{"label": "", "predict": "EQUAL: <e8 said>; BEFORE: <e9 learned>, <e10 pulled>, <e11 speeding>, <e12 pulled>, <e15 appeared>, <e20 started>, <e21 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>, <e9 learned>, <e10 pulled>, <e11 speeding>, <e12 pulled>, <e13 showed>, <e15 appeared>, <e20 started>, <e21 said>"}
+{"label": "", "predict": "EQUAL: <e8 said>; BEFORE: <e9 learned>, <e10 pulled>, <e11 speeding>, <e15 appeared>, <e20 started>, <e21 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>, <e9 learned>, <e10 pulled>, <e11 speeding>, <e12 pulled>, <e20 started>, <e21 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 showed>, <e14 discovered>, <e15 appeared>, <e20 started>, <e21 said>, <e22 arrested>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e12 pulled>, <e13 showed>, <e15 appeared>, <e21 said>, <e22 arrested>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e23 agreed>, <e27 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e34 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e30 told>, <e34 said>, <e37 uncovered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e30 told>, <e31 thought>, <e34 said>, <e37 uncovered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e30 told>, <e31 thought>, <e32 devised>, <e34 said>, <e37 uncovered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e30 told>, <e34 said>, <e40 going>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e43 reported>, <e44 missing>, <e45 pending>, <e46 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 going>, <e45 pending>, <e46 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 going>, <e43 reported>, <e45 pending>, <e46 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e46 said>, <e47 defended>, <e49 saying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e49 saying>, <e57 told>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e60 added>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e65 said>, <e68 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e68 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e72 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 reported>, <e8 said>, <e9 learned>, <e10 pulled>, <e12 pulled>, <e15 appeared>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>, <e9 learned>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e49 saying>, <e53 denied>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e57 told>, <e59 accepted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e65 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 broke>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 expanding>, <e9 said>, <e10 identified>, <e11 run>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 run>, <e12 gives>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e9 said>, <e11 run>, <e12 gives>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 open>, <e19 convince>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 convince>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 broke>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 run>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 taken>, <e3 floating>, <e5 causing>, <e7 obscuring>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 forced>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 said>, <e11 checked>, <e12 kept>, <e13 said>, <e16 vowed>, <e22 put>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e28 exert>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e41 calling>, <e44 estimated>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 taken>, <e2 found>, <e5 causing>, <e7 obscuring>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 said>, <e12 kept>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 said>, <e16 vowed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e27 according>, <e30 pushed>, <e31 saying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 said>, <e44 estimated>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 found>, <e3 floating>, <e5 causing>, <e7 obscuring>, <e8 forced>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 obscuring>, <e8 forced>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 said>, <e16 vowed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 forced>, <e10 said>, <e12 kept>, <e13 said>, <e14 made>, <e16 vowed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 forced>, <e10 said>, <e11 checked>, <e13 said>, <e14 made>, <e16 vowed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 vowed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 said>, <e14 made>, <e16 vowed>, <e21 led>, <e22 put>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 said>, <e14 made>, <e16 vowed>, <e22 put>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e28 exert>, <e31 saying>, <e33 released>, <e34 saying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e33 released>, <e34 saying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 said>, <e41 calling>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 said>, <e41 calling>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 hit>, <e21 led>, <e22 put>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e40 said>, <e41 calling>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 bought>, <e7 becoming>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e9 say>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 working>, <e7 becoming>, <e9 say>, <e11 solved>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 becoming>, <e9 say>, <e13 expect>, <e16 solving>, <e17 done>"}
+{"label": "", "predict": "EQUAL: <e17 done>; BEFORE: <e13 expect>, <e16 solving>"}
+{"label": "", "predict": "EQUAL: <e17 done>; BEFORE: <e16 solving>, <e18 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e9 say>, <e13 expect>, <e16 solving>, <e18 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e17 done>, <e18 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 buy>, <e2 returning>, <e4 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 returning>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 said>, <e1 buy>, <e2 returning>, <e4 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 agreed>, <e11 said>, <e12 expect>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 said>, <e12 expect>, <e18 expects>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 said>, <e12 expect>, <e16 realised>, <e18 expects>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 expects>, <e23 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e29 block>, <e30 dropped>, <e31 fallen>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e30 dropped>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e31 fallen>, <e33 bugged>, <e34 raided>, <e35 met>, <e39 fled>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e34 raided>, <e35 met>, <e39 fled>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e31 fallen>, <e33 bugged>, <e35 met>, <e39 fled>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e39 fled>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e41 keep>, <e42 allowing>, <e44 explore>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e23 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e41 keep>, <e42 allowing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 said>, <e1 buy>, <e2 returning>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 used>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 had>, <e3 unleashed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 intended>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 assure>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 close>, <e3 sparing>, <e7 begin>, <e8 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 close>, <e7 begin>, <e8 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 announced>, <e1 close>, <e3 sparing>, <e7 begin>, <e8 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 close>, <e3 sparing>, <e7 begin>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e7 begin>"}
+{"label": "", "predict": "EQUAL: <e1 close>; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 died>, <e2 died>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 said>, <e16 got>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e17 had>, <e20 thought>, <e22 talked>, <e23 wear>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>, <e38 remained>, <e40 retiring>, <e42 leaves>"}
+{"label": "", "predict": "EQUAL: <e0 conquered>; BEFORE: <e2 died>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 made>, <e13 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 pleased>, <e20 thought>, <e22 talked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>, <e40 retiring>, <e42 leaves>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e2 died>, <e5 paid>, <e6 shunned>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 paid>, <e6 shunned>, <e9 made>, <e11 made>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 paid>, <e6 shunned>, <e10 crossing>, <e11 made>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 paid>, <e6 shunned>, <e11 made>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 made>, <e13 said>, <e16 got>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 pleased>, <e20 thought>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 pleased>, <e20 thought>, <e22 talked>, <e23 wear>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e22 talked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 said>, <e27 called>, <e28 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 said>, <e28 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e28 said>, <e31 published>, <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e42 leaves>, <e44 died>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e38 remained>, <e40 retiring>, <e42 leaves>, <e44 died>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e44 died>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 paid>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 searching>, <e7 trapped>, <e8 said>, <e9 found>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 causing>, <e6 searching>, <e7 trapped>, <e8 said>, <e9 found>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>, <e12 starting>, <e13 restored>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 searching>, <e8 said>, <e9 found>, <e10 affected>, <e12 starting>, <e13 restored>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e12 starting>, <e13 restored>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 said>, <e12 starting>, <e13 restored>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 searching>, <e7 trapped>, <e8 said>, <e9 found>, <e12 starting>, <e13 restored>, <e15 postponed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e13 restored>, <e15 postponed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e15 postponed>, <e17 comes>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 said>, <e23 falling>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e23 falling>, <e24 expected>, <e25 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 said>, <e29 added>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e23 falling>, <e29 added>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e12 starting>, <e13 restored>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e24 expected>, <e25 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 agreed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 apologised>, <e8 agreed>, <e10 killed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 apologised>, <e5 tried>, <e8 agreed>, <e11 expressed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 expressed>, <e16 said>, <e17 accepted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 said>, <e21 killed>, <e22 boarded>, <e23 trying>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 admitted>, <e29 insisted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 killed>, <e25 admitted>, <e29 insisted>, <e30 used>, <e31 attacked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 killed>, <e22 boarded>, <e25 admitted>, <e29 insisted>, <e30 used>, <e31 attacked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e29 insisted>, <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 killed>, <e22 boarded>, <e25 admitted>, <e29 insisted>, <e30 used>, <e32 said>, <e33 opened>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 admitted>, <e29 insisted>, <e30 used>, <e31 attacked>, <e32 said>, <e37 provoked>, <e39 led>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 admitted>, <e29 insisted>, <e30 used>, <e31 attacked>, <e32 said>, <e33 opened>, <e37 provoked>, <e39 led>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>, <e39 led>, <e41 departing>, <e42 revealed>, <e43 spoken>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>, <e41 departing>, <e42 revealed>, <e43 spoken>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e8 agreed>, <e14 brokered>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 killed>, <e25 admitted>, <e29 insisted>, <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e41 departing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e42 revealed>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e32 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 admitted>, <e29 insisted>, <e30 used>, <e39 led>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e16 said>, <e17 adding>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e12 forced>, <e16 said>, <e17 adding>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e17 adding>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e5 advancing>, <e10 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 startled>, <e22 finishing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e20 startled>, <e21 won>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 won>, <e22 finishing>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e1 documenting>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e4 asked>, <e6 says>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e18 quoted>, <e19 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e0 raided>, <e3 voiced>, <e4 asked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: none"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e19 said>, <e21 insisted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e21 insisted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e6 says>, <e11 says>, <e12 returned>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 says>, <e14 said>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 says>, <e12 returned>, <e14 said>, <e16 linked>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e11 says>, <e12 returned>, <e14 said>, <e18 quoted>, <e19 said>, <e20 was>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e14 said>, <e18 quoted>, <e19 said>, <e21 insisted>"}
+{"label": "", "predict": "EQUAL: none; BEFORE: <e25 said>"}
